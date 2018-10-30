@@ -2,8 +2,8 @@
 bilm.egg-info/
 dist/
 build/
+.idea/
 
 *.pyc
 *.swp
-
-
+*.pem
